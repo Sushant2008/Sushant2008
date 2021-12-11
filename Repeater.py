@@ -5,3 +5,8 @@ while True:
     while (c<b+1):
         print(c,a)
         c=c+1
+    d=input("retry?\n")
+    if d=="y":
+        continue
+    else:
+        break
