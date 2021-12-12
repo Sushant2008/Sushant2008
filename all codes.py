@@ -223,7 +223,7 @@ if(b)==2:
 ##############################
 
 
-while True:
+"""while True:
 	input1=(str(input("What do you want to do:\n1. Read\n2. Write\n\n")))
 	if input1=="1":
 		input2=input("\nFor whome do you want to read:\n1. Harry\n2. Rohan\n3. Sushant\n\n")
@@ -242,4 +242,4 @@ while True:
 					break
 				else:
 					print("\nPlease check your input")
-					continue
+					continue"""
