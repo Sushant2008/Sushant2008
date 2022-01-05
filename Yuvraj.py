@@ -1,4 +1,4 @@
-import turtle 
+"""import turtle 
 trtl = turtle.Turtle()    
 screen=turtle.Screen()    
 screen.setup(400,300)   
@@ -53,4 +53,32 @@ trtl.forward(25)
 trtl.right(55)
 trtl.forward(100)
 trtl.right(35)
-trtl.forward(100)
+trtl.forward(100)"""
+
+
+
+
+
+
+
+
+
+
+
+"""import turtle
+
+colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
+
+t = turtle.Pen()
+
+turtle.bgcolor('black')
+
+for x in range(360):
+
+    t.pencolor(colors[x%6])
+
+    t.width(x//100 + 1)
+
+    t.forward(x)
+
+    t.left(59)"""
